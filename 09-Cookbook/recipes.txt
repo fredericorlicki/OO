@@ -1,5 +1,3 @@
-Crumpets
-Beans & Bacon breakfast
-Plum pudding
-Apple pie
-Christmas crumble
+name,ingredients
+Tiramisu,"speculos, cream"
+Boeuf Thai,"Boeuf, Citronelle, Sauce Soja, Oignons, Piment, Curry Rouge"
